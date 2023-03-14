@@ -1,0 +1,22 @@
+.button {
+    display: block;
+    width: 200px;
+    height: 50px;
+    color: aqua;
+}
+
+.button_text {
+    background-color: blue;
+}
+
+.containerButton {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.purple {
+    background-color: purple;
+}
